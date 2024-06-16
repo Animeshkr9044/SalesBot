@@ -22,5 +22,6 @@ wikipedia
 arxiv
 numexpr
 uvicorn
+fastapi
 
 -e .
